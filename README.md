@@ -1,4 +1,14 @@
-![sunadoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunadoi&count_private=true&theme=prussian)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunadoi&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunadoi&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunadoi&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunadoi&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunadoi&theme=nord_dark)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunadoi&exclude_repo=nand2tetris,mikanos&hide=html,css&layout=compact&theme=prussian)](https://github.com/sunadoi/github-readme-stats)
+<!-- <p align="left"> 
+  <a href="https://github.com/sunadoi/sunadoi/">
+    <img src="https://komarev.com/ghpvc/?username=sunadoi" alt="sunadoi" />
+  </a>
+  <a href="https://github.com/sunadoi">
+    <img height="20" src="https://img.shields.io/github/followers/sunadoi?label=follow&logo=github&style=flat" />
+  </a>
+</p> -->
